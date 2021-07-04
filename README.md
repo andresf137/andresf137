@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**andresf137/andresf137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Andres, a Frontend Junior Developer 🚀 from Colombia, currently, learning Angular 👨🏽‍💻.
 
 Here are some ideas to get you started:
 
